@@ -1,15 +1,13 @@
 ## Hello there 👋
-[![Linkedin](https://img.shields.io/badge/-melek_elloumi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melek-elloumi/) [![Gmail](https://img.shields.io/badge/-melek_elloumi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:melek.elloumi@insat.ucar.tn) [![Github](https://img.shields.io/github/followers/MelekElloumi?label=Follow&style=social)](https://github.com/MelekElloumi) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MelekElloumi.MelekElloumi)
+[![Linkedin](https://img.shields.io/badge/-melek_elloumi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maher-turki/) [![Gmail](https://img.shields.io/badge/-melek_elloumi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maherturki25@gmail.com) [![Github](https://img.shields.io/github/followers/MelekElloumi?label=Follow&style=social)](https://github.com/MelekElloumi) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MelekElloumi.MelekElloumi)
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=PhD+Student;Software+Engineer;Nvidia%20AI%20Hack%20Winner;Problem%20Solver&center=false&width=500&height=50">
-My name is Melek Elloumi. I am a PhD student at Efrei Research Lab. 
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;AI+Enthusiast;Problem%20Solver&center=false&width=500&height=50">
+My name is Maher Turki. I am a PhD student at Higher Institute of Multimedia Arts in Manouba. 
 
-- 🔭&nbsp;I am currently working on my PhD thesis in computer vision.
-- 🎯&nbsp;I recently graduated from INSAT as a Software Engineer.
-- 🏆&nbsp;My team was the winner of Nvidia Hack in [AI Hack 2022](https://www.linkedin.com/posts/melek-elloumi_nvidia-aihack-computervision-activity-6970827699955118080-lDIC?utm_source=share&utm_medium=member_desktop)
+- 🔭&nbsp;I am currently second-year Software Engineering student with a focus on machine learning and AI.
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
-- 💫&nbsp;My life motto is: **Love for your brother what you love for yourself**
+- 💫&nbsp;My life motto is: **Code with purpose, innovate with passion, and engineer a brighter tomorrow.**
 - ⚡&nbsp;Fun fact: The first video game cheat code is the KONAMI code. It's ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️<ins>START</ins>
 
 ---------------------------------------------------------------------------------------------------------------
@@ -24,7 +22,7 @@ My name is Melek Elloumi. I am a PhD student at Efrei Research Lab.
 | DevOps: |![Docker](https://img.shields.io/badge/Docker-FFD700?style=flat&logo=docker&logoColor=white)&nbsp;![Azure](https://img.shields.io/badge/Azure_DevOps-C0C0C0?style=flat&logo=azure-devops&logoColor=white)&nbsp;![Github Actions](https://img.shields.io/badge/GitHub_Actions-C0C0C0?style=flat&logo=github-actions&logoColor=white)&nbsp;![Helm](https://img.shields.io/badge/Helm-C0C0C0?style=flat&logo=Helm&logoColor=white)&nbsp;![Kubernetes](https://img.shields.io/badge/Kubernetes-C0C0C0?style=flat&logo=kubernetes&logoColor=white)&nbsp;![Prometheus](https://img.shields.io/badge/prometheus-C0C0C0?style=flat&logo=prometheus&logoColor=white)&nbsp;
 | Other: |![Unity](https://img.shields.io/badge/Unity-FFD700?style=flat&logo=unity&logoColor=white)&nbsp;![Selenium](https://img.shields.io/badge/-Selenium-FFD700?style=flat&logo=selenium&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/-Git-C0C0C0?style=flat&logo=git&logoColor=white)&nbsp;![RabbitMQ](https://img.shields.io/badge/Rabbitmq-C0C0C0?style=flat&logo=rabbitmq&logoColor=white)&nbsp;![Linux](https://img.shields.io/badge/Linux-C0C0C0?style=flat&logo=linux&logoColor=white)&nbsp;![Talend](https://img.shields.io/badge/-Talend-CD7F32?style=flat)&nbsp;
 | Tools: |![PyCharm](https://img.shields.io/badge/Pycharm-FFD700?style=flat&logo=pycharm&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-C0C0C0?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;![Eclipse](https://img.shields.io/badge/Eclipse-C0C0C0?style=flat&logo=Eclipse&logoColor=white)
-| Media: |![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-FFD700?style=flat)&nbsp;![OBS](https://img.shields.io/badge/-OBS-FFD700?style=flat)&nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-C0C0C0?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;![Audacity](https://img.shields.io/badge/Audacity-C0C0C0?style=flat&logo=audacity&logoColor=white)
+| Frameworks: |![Nodejs](https://img.shields.io/badge/-Nodejs-FFD700?style=flat)&nbsp;![Expressjs](https://img.shields.io/badge/-Expressjs-FFD700?style=flat)&nbsp;![Reactjs](https://img.shields.io/badge/-Reactjs-C0C0C0?style=flat&logo=Reactjsp&logoColor=white)&nbsp;![Django](https://img.shields.io/badge/Django-C0C0C0?style=flat&logo=Django&logoColor=white)
 
 <br>
 
