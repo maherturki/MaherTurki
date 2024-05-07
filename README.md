@@ -5,7 +5,6 @@
 My name is Maher Turki . I am a Software Engineering student at Higher Institute of Multimedia Arts in Manouba. 
 
 - 🔭&nbsp;I am currently second-year Software Engineering student.
-- 🎯&nbsp;I recently graduated from INSAT as a Software Engineer.
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
 - 💫&nbsp;My life motto is: **Code with purpose, innovate with passion, and engineer a brighter tomorrow.**
