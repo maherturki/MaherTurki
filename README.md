@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-melek_elloumi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maher-turki/) [![Gmail](https://img.shields.io/badge/-melek_elloumi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maherturki25@gmail.com) [![Github](https://img.shields.io/github/followers/MelekElloumi?label=Follow&style=social)](https://github.com/MelekElloumi) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MelekElloumi.MelekElloumi)
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;AI+Enthusiast;Problem%20Solver&center=false&width=500&height=50">
-My name is Maher Turki. I am a PhD student at Higher Institute of Multimedia Arts in Manouba. 
+My name is Maher Turki. I am a Software Engineering  student at Higher Institute of Multimedia Arts in Manouba. 
 
 - 🔭&nbsp;I am currently second-year Software Engineering student with a focus on machine learning and AI.
 - 📈&nbsp;My favourite programming language is Python <3
