@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;AI+Enthusiast;Problem%20Solver&center=false&width=500&height=50">
 My name is Maher Turki. I am a Software Engineering  student at Higher Institute of Multimedia Arts in Manouba. 
 
-- 🔭&nbsp;I am currently second-year Software Engineering student with a focus on machine learning and AI.
+- 🔭&nbsp;I am currently third-year Software Engineering student with a focus on machine learning and AI seeking PFE Opportunities in AI/Software Engineering.
 - 📈&nbsp;My favourite programming language is Python <3
 - 🎲&nbsp;I like to solve puzzle games and play chess in my free time.
 - 💫&nbsp;My life motto is: **Code with purpose, innovate with passion, and engineer a brighter tomorrow.**
